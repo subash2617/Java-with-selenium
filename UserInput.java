@@ -24,7 +24,7 @@ public class UserInput {
 	}
 }
 /*
- * Output
+   Output
 Enter a Value :
 30
 Enter b Value :
