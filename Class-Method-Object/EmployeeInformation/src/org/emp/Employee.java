@@ -7,7 +7,7 @@ import org.project.Project;
 public class Employee {
 
 	public void empName() {
-		System.out.println("Nandhini");
+		System.out.println("Subash");
 	}
 	
 	public static void main(String[] args) {
