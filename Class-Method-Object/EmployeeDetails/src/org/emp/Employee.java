@@ -7,11 +7,11 @@ public class Employee {
 	}
 
 	public void empName(){
-		System.out.println("Nandhini");
+		System.out.println("Subash");
 	}
 	
 	public void empDob() {
-		System.out.println("26-jan-2020");
+		System.out.println("26-Apl-2020");
 	}
 	
 	public void empPhone() {
